@@ -1,0 +1,11 @@
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\bin\Debug\netcoreapp2.0\WebshopSkiiiiiii.deps.json
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\bin\Debug\netcoreapp2.0\WebshopSkiiiiiii.runtimeconfig.json
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\bin\Debug\netcoreapp2.0\WebshopSkiiiiiii.runtimeconfig.dev.json
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\bin\Debug\netcoreapp2.0\WebshopSkiiiiiii.dll
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\obj\Debug\netcoreapp2.0\WebshopSkiiiiiii.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\obj\Debug\netcoreapp2.0\WebshopSkiiiiiii.csproj.CoreCompileInputs.cache
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\obj\Debug\netcoreapp2.0\WebshopSkiiiiiii.AssemblyInfoInputs.cache
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\obj\Debug\netcoreapp2.0\WebshopSkiiiiiii.AssemblyInfo.cs
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\bin\Debug\netcoreapp2.0\WebshopSkiiiiiii.pdb
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\obj\Debug\netcoreapp2.0\WebshopSkiiiiiii.dll
+c:\users\gebruiker\source\repos\WebshopSkiiiiiii\obj\Debug\netcoreapp2.0\WebshopSkiiiiiii.pdb
